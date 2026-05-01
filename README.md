@@ -81,14 +81,13 @@ The goal of this analysis is to identify operational inefficiencies and provide 
 
 ---
 
-## Dashboard Preview
-(Add your dashboard screenshots here)
 
 ---
 
 ## Project Files
 - `Uber_Analysis.ipynb` → Colab notebook  
-- `dataset.csv` → Raw dataset  
+- `dataset.csv` → Raw dataset
+- `dashboard.png` → Dashboard image 
 
 
 ---
