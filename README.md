@@ -131,9 +131,6 @@ uber-ride-analysis/
 ├── notebook/
 │   └── uber_analysis.ipynb
 │
-├── presentation/
-│   └── uber_analysis.pdf
-│
 ├── README.md
 ```
 
